@@ -3,7 +3,7 @@
   <head>
   </head>
   <body>
-      <a href="http://146.59.29.65/">Nie klikaj tu cwelu</a>
+      <a href="https://piotreqsl.github.io/">Nie klikaj tu cwelu</a>
     </body>
 
 
