@@ -3,7 +3,7 @@
   <head>
   </head>
   <body>
-      <a href="https://serwer2202666.home.pl/">Nie klikaj tu cwelu</a>
+      <a href="http://brakprofitu.fun">Nie klikaj tu cwelu</a>
     </body>
 
 
